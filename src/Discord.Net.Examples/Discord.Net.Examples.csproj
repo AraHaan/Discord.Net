@@ -1,6 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
+    <CheckEolTargetFramework>false</CheckEolTargetFramework>
     <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
 
